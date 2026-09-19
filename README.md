@@ -9,7 +9,7 @@
 ### 📌 TARGET ANALYSIS
 * **Program ID:** `<TARGET_PROGRAM_ID>`  
 * **Faulty Code Site:** Entrypoint Dispatcher (`<DISPATCH_ADDR>`)  
-* **Note:** This research is published as an anonymized live 0-day architectural case study for educational and defensive purposes this proves that ai can surpass humans bug found in a single day. 
+* **Note:** This research is published as an anonymized live 0-day architectural case study for educational and defensive purposes this proves that ai can surpass humans bug found in a single day I don't know rust or ebpf. 
 
 ---
 
