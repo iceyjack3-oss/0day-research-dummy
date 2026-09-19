@@ -77,7 +77,7 @@ The dispatcher forwards arbitrary account structures into internal function scop
 
 ---
 
-### 💡 RECOMMENDED REMEDIATION
+### 💡 RECOMMENDED FIX
 Implement unified owner validation inside the root entrypoint dispatcher assembly loop (`<DISPATCH_ADDR>`). Before assigning routing paths or iterating values, verify account ownership once across every supplied account index:
 
 ```rust
