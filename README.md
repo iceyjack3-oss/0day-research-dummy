@@ -12,7 +12,7 @@
 * **Note:** This research is published as an anonymized live 0-day architectural case study for educational and defensive purposes this proves that ai can surpass humans bug found in a single day & first time vuln hunting seriously it's a free LLM took minutes for the bugs logs hours to verify write a PoC and exploit code (with ai) , I don't know rust or ebpf.
 
 * Proof Of Live 0day:
-* 
+![Exploit Proof](exploit.jpg)
 
 ---
 
